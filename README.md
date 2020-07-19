@@ -10,4 +10,4 @@ I am Max, software tester intern @Aerofiler.
 - ⚡ Fun fact: I sell dinosaurs on Amazon.
 
 
-<img src="taskfailed.jpg" width=300 align=right>
+<img src="./taskfailed.jpg" width=300 align=right>
