@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Max, software tester intern @Aerofiler.
+I am Max, software tester @Aerofiler.
 
 - 🐛 I’m currently trying to improve my Testing Knowledge Management and Exploratory Testing note taking workflow using session-based test management approach and Rapid Software Testing methodology. 
 - 🌱 I’m currently learning lots of new things from #TestBash Home2021 presentations and talks.
