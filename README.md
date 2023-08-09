@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Max, software tester @WithYouWithMe.
+I am Max, software tester.
 
 - 🐛 I’m currently learning test automation using Playwright and Cypress . 
 - 🌱 My go to places to learn about testing and related topics include Ministry of Testing, Udemy, Test Automation University, Rapid Software Testing (satisfice.com, developsense.com).
